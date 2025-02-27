@@ -1,4 +1,4 @@
-# Modeling Equity Premium with Two-State and Three-State Markov Chains
+# Price Modeling under Two-State and Three-State Markov Chains
 
 This Python project investigates the dynamics of the equity premium by modeling the economy using two-state and three-state Markov chains. It calibrates state-dependent parameters and solves the investor’s Euler equations to determine the mean equity premium under different economic scenarios, including the presence of rare disasters.
 
