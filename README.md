@@ -109,6 +109,8 @@ In simpler terms:
   - Adjusted transition probabilities ensure each row in the transition matrix sums to 1.
 
 - **General:**
+  - The provided dataset is a modified version of the dataset provided by "Shiller Irrational Exuberance 3rd Edition, 2015".
+  - See "Schiller_C26_data" for raw dataset.
   - Consumption growth data is provided as gross growth factors (e.g., 1.02 for 2% growth).
   - The empirical mean consumption growth is accurately estimated from the provided dataset.
 
